@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\jacks\\.nuget\\packages\\": {}
+    "C:\\Users\\shelb\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dev\\ElevenFiftyProjects\\Projects\\Hangman_Console_App\\Hangman\\Hangman.csproj",
+      "projectUniqueName": "C:\\Users\\shelb\\OneDrive\\Documents\\ElevenFiftyProjects\\codingFoundations\\projects\\Hangman_Console_App\\Hangman\\Hangman.csproj",
       "projectName": "Hangman",
-      "projectPath": "C:\\Dev\\ElevenFiftyProjects\\Projects\\Hangman_Console_App\\Hangman\\Hangman.csproj",
-      "packagesPath": "C:\\Users\\jacks\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\ElevenFiftyProjects\\Projects\\Hangman_Console_App\\Hangman\\obj\\",
+      "projectPath": "C:\\Users\\shelb\\OneDrive\\Documents\\ElevenFiftyProjects\\codingFoundations\\projects\\Hangman_Console_App\\Hangman\\Hangman.csproj",
+      "packagesPath": "C:\\Users\\shelb\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\shelb\\OneDrive\\Documents\\ElevenFiftyProjects\\codingFoundations\\projects\\Hangman_Console_App\\Hangman\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\jacks\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\shelb\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"

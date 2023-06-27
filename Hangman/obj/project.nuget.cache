@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LQeD6eSpnnAAbR6PxOlsJT5+FP+WhRw6Fq4Uz84AZXbXWNUPJQ6n0vEkOYZF+sSZz0UwWux5//CblW3uPEDwzA==",
+  "dgSpecHash": "pJSBmH6l1RFQyXmIaNWJUis48c9AldvgJD6FC8SxhkQoNef/mwGpOi1F7qiAoA6xN4R1aPXfpn9CFW1I4OmXcA==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\ElevenFiftyProjects\\Projects\\Hangman_Console_App\\Hangman\\Hangman.csproj",
+  "projectFilePath": "C:\\Users\\shelb\\OneDrive\\Documents\\ElevenFiftyProjects\\codingFoundations\\projects\\Hangman_Console_App\\Hangman\\Hangman.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
